@@ -6,7 +6,7 @@
     "juan manuel restrepo castro",
     "sergio perez mercado"
   ],
-  "actualizado": "2026-10-31T17:36:12.233Z",
+  "actualizado": "2026-10-31T17:36:59.988Z",
   "entorno": {
     "node": "v24.20.0",
     "sistema": "win32 x64"
@@ -36,10 +36,10 @@
       "titulo": "Adaptadores de salida",
       "puntos": 15,
       "extra": false,
-      "ok": false,
-      "primeraVez": null,
-      "ultima": "2026-10-31T16:24:02.226Z",
-      "comprobaciones": "0/15",
+      "ok": true,
+      "primeraVez": "2026-10-31T17:37:00.093Z",
+      "ultima": "2026-10-31T17:37:00.093Z",
+      "comprobaciones": "15/15",
       "evidencia": ""
     },
     "3": {
