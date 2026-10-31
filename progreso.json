@@ -6,7 +6,7 @@
     "juan manuel restrepo castro",
     "sergio perez mercado"
   ],
-  "actualizado": "2026-10-31T17:35:11.888Z",
+  "actualizado": "2026-10-31T17:36:12.233Z",
   "entorno": {
     "node": "v24.20.0",
     "sistema": "win32 x64"
@@ -26,10 +26,10 @@
       "titulo": "Casos de uso",
       "puntos": 15,
       "extra": false,
-      "ok": false,
-      "primeraVez": null,
-      "ultima": "2026-10-31T16:34:31.233Z",
-      "comprobaciones": "1/9",
+      "ok": true,
+      "primeraVez": "2026-10-31T17:36:12.252Z",
+      "ultima": "2026-10-31T17:36:12.252Z",
+      "comprobaciones": "9/9",
       "evidencia": ""
     },
     "2": {
