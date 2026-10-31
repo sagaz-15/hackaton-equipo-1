@@ -1,12 +1,12 @@
 {
   "esquema": 1,
-  "equipo": "",
+  "equipo": "chikungunya",
   "integrantes": [
     "Santiago Machado Viloria",
     "juan manuel restrepo castro",
     "sergio perez mercado"
   ],
-  "actualizado": "2026-10-31T16:24:00.331Z",
+  "actualizado": "2026-10-31T16:30:12.176Z",
   "entorno": {
     "node": "v24.20.0",
     "sistema": "win32 x64"
@@ -71,6 +71,26 @@
       "ultima": "2026-10-31T16:24:03.837Z",
       "comprobaciones": "0/2",
       "evidencia": "sin motor"
+    },
+    "6": {
+      "titulo": "Extra: datos que sobreviven en un volumen",
+      "puntos": 10,
+      "extra": true,
+      "ok": false,
+      "primeraVez": null,
+      "ultima": "2026-10-31T16:30:12.910Z",
+      "comprobaciones": "0/1",
+      "evidencia": "sin motor"
+    },
+    "7": {
+      "titulo": "Extra: el mismo resultado con los dos motores",
+      "puntos": 10,
+      "extra": true,
+      "ok": false,
+      "primeraVez": null,
+      "ultima": "2026-10-31T16:30:13.541Z",
+      "comprobaciones": "0/1",
+      "evidencia": "sin motores"
     }
   }
 }
