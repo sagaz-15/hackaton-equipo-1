@@ -1,0 +1,56 @@
+{
+  "esquema": 1,
+  "equipo": "",
+  "integrantes": [
+    "Santiago Machado Viloria",
+    "juan manuel restrepo castro",
+    "sergio perez mercado"
+  ],
+  "actualizado": "2026-10-31T16:23:22.641Z",
+  "entorno": {
+    "node": "v24.20.0",
+    "sistema": "win32 x64"
+  },
+  "etapas": {
+    "1": {
+      "titulo": "Casos de uso",
+      "puntos": 15,
+      "extra": false,
+      "ok": false,
+      "primeraVez": null,
+      "ultima": "2026-10-31T16:23:22.671Z",
+      "comprobaciones": "1/9",
+      "evidencia": ""
+    },
+    "2": {
+      "titulo": "Adaptadores de salida",
+      "puntos": 15,
+      "extra": false,
+      "ok": false,
+      "primeraVez": null,
+      "ultima": "2026-10-31T16:23:22.687Z",
+      "comprobaciones": "0/15",
+      "evidencia": ""
+    },
+    "3": {
+      "titulo": "Adaptador de entrada: la API HTTP",
+      "puntos": 20,
+      "extra": false,
+      "ok": false,
+      "primeraVez": null,
+      "ultima": "2026-10-31T16:23:23.012Z",
+      "comprobaciones": "1/12",
+      "evidencia": ""
+    },
+    "4": {
+      "titulo": "Composición y regla de dependencias",
+      "puntos": 15,
+      "extra": false,
+      "ok": false,
+      "primeraVez": null,
+      "ultima": "2026-10-31T16:23:23.045Z",
+      "comprobaciones": "1/6",
+      "evidencia": ""
+    }
+  }
+}
