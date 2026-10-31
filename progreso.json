@@ -6,21 +6,91 @@
     "juan manuel restrepo castro",
     "sergio perez mercado"
   ],
-  "actualizado": "2026-10-31T05:06:30.776Z",
+  "actualizado": "2026-10-31T17:13:30.993Z",
   "entorno": {
     "node": "v24.20.0",
     "sistema": "win32 x64"
   },
   "etapas": {
+    "0": {
+      "titulo": "Contenedor listo",
+      "puntos": 10,
+      "extra": false,
+      "ok": false,
+      "primeraVez": "2026-10-31T16:36:08.540Z",
+      "ultima": "2026-10-31T17:13:31.797Z",
+      "comprobaciones": "0/1",
+      "evidencia": "sin motor"
+    },
+    "1": {
+      "titulo": "Casos de uso",
+      "puntos": 15,
+      "extra": false,
+      "ok": false,
+      "primeraVez": null,
+      "ultima": "2026-10-31T16:34:31.233Z",
+      "comprobaciones": "1/9",
+      "evidencia": ""
+    },
     "2": {
       "titulo": "Adaptadores de salida",
       "puntos": 15,
       "extra": false,
-      "ok": true,
-      "primeraVez": "2026-10-31T05:06:30.833Z",
-      "ultima": "2026-10-31T05:06:30.833Z",
-      "comprobaciones": "15/15",
+      "ok": false,
+      "primeraVez": null,
+      "ultima": "2026-10-31T16:24:02.226Z",
+      "comprobaciones": "0/15",
       "evidencia": ""
+    },
+    "3": {
+      "titulo": "Adaptador de entrada: la API HTTP",
+      "puntos": 20,
+      "extra": false,
+      "ok": true,
+      "primeraVez": "2026-10-31T16:47:46.268Z",
+      "ultima": "2026-10-31T17:13:32.069Z",
+      "comprobaciones": "12/12",
+      "evidencia": ""
+    },
+    "4": {
+      "titulo": "Composición y regla de dependencias",
+      "puntos": 15,
+      "extra": false,
+      "ok": false,
+      "primeraVez": null,
+      "ultima": "2026-10-31T16:24:02.497Z",
+      "comprobaciones": "1/6",
+      "evidencia": ""
+    },
+    "5": {
+      "titulo": "Imagen: la API en un contenedor",
+      "puntos": 25,
+      "extra": false,
+      "ok": false,
+      "primeraVez": null,
+      "ultima": "2026-10-31T16:24:03.837Z",
+      "comprobaciones": "0/2",
+      "evidencia": "sin motor"
+    },
+    "6": {
+      "titulo": "Extra: datos que sobreviven en un volumen",
+      "puntos": 10,
+      "extra": true,
+      "ok": false,
+      "primeraVez": null,
+      "ultima": "2026-10-31T16:30:12.910Z",
+      "comprobaciones": "0/1",
+      "evidencia": "sin motor"
+    },
+    "7": {
+      "titulo": "Extra: el mismo resultado con los dos motores",
+      "puntos": 10,
+      "extra": true,
+      "ok": false,
+      "primeraVez": null,
+      "ultima": "2026-10-31T16:30:13.541Z",
+      "comprobaciones": "0/1",
+      "evidencia": "sin motores"
     }
   }
 }
