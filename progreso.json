@@ -6,19 +6,29 @@
     "juan manuel restrepo castro",
     "sergio perez mercado"
   ],
-  "actualizado": "2026-10-31T16:23:22.641Z",
+  "actualizado": "2026-10-31T16:24:00.331Z",
   "entorno": {
     "node": "v24.20.0",
     "sistema": "win32 x64"
   },
   "etapas": {
+    "0": {
+      "titulo": "Contenedor listo",
+      "puntos": 10,
+      "extra": false,
+      "ok": false,
+      "primeraVez": null,
+      "ultima": "2026-10-31T16:24:02.194Z",
+      "comprobaciones": "0/1",
+      "evidencia": "sin motor"
+    },
     "1": {
       "titulo": "Casos de uso",
       "puntos": 15,
       "extra": false,
       "ok": false,
       "primeraVez": null,
-      "ultima": "2026-10-31T16:23:22.671Z",
+      "ultima": "2026-10-31T16:24:02.211Z",
       "comprobaciones": "1/9",
       "evidencia": ""
     },
@@ -28,7 +38,7 @@
       "extra": false,
       "ok": false,
       "primeraVez": null,
-      "ultima": "2026-10-31T16:23:22.687Z",
+      "ultima": "2026-10-31T16:24:02.226Z",
       "comprobaciones": "0/15",
       "evidencia": ""
     },
@@ -38,7 +48,7 @@
       "extra": false,
       "ok": false,
       "primeraVez": null,
-      "ultima": "2026-10-31T16:23:23.012Z",
+      "ultima": "2026-10-31T16:24:02.478Z",
       "comprobaciones": "1/12",
       "evidencia": ""
     },
@@ -48,9 +58,19 @@
       "extra": false,
       "ok": false,
       "primeraVez": null,
-      "ultima": "2026-10-31T16:23:23.045Z",
+      "ultima": "2026-10-31T16:24:02.497Z",
       "comprobaciones": "1/6",
       "evidencia": ""
+    },
+    "5": {
+      "titulo": "Imagen: la API en un contenedor",
+      "puntos": 25,
+      "extra": false,
+      "ok": false,
+      "primeraVez": null,
+      "ultima": "2026-10-31T16:24:03.837Z",
+      "comprobaciones": "0/2",
+      "evidencia": "sin motor"
     }
   }
 }
