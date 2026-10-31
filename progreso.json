@@ -6,7 +6,7 @@
     "juan manuel restrepo castro",
     "sergio perez mercado"
   ],
-  "actualizado": "2026-10-31T17:38:41.434Z",
+  "actualizado": "2026-10-31T17:40:59.987Z",
   "entorno": {
     "node": "v24.20.0",
     "sistema": "win32 x64"
@@ -66,11 +66,11 @@
       "titulo": "Imagen: la API en un contenedor",
       "puntos": 25,
       "extra": false,
-      "ok": false,
-      "primeraVez": null,
-      "ultima": "2026-10-31T16:24:03.837Z",
-      "comprobaciones": "0/2",
-      "evidencia": "sin motor"
+      "ok": true,
+      "primeraVez": "2026-10-31T17:41:04.673Z",
+      "ultima": "2026-10-31T17:41:04.673Z",
+      "comprobaciones": "4/4",
+      "evidencia": "docker 29.8.2; imagen sha256:0f694cdcf08a"
     },
     "6": {
       "titulo": "Extra: datos que sobreviven en un volumen",
