@@ -6,7 +6,7 @@
     "juan manuel restrepo castro",
     "sergio perez mercado"
   ],
-  "actualizado": "2026-10-31T17:36:59.988Z",
+  "actualizado": "2026-10-31T17:38:41.434Z",
   "entorno": {
     "node": "v24.20.0",
     "sistema": "win32 x64"
@@ -48,7 +48,7 @@
       "extra": false,
       "ok": true,
       "primeraVez": "2026-10-31T16:47:46.268Z",
-      "ultima": "2026-10-31T17:13:32.069Z",
+      "ultima": "2026-10-31T17:37:27.614Z",
       "comprobaciones": "12/12",
       "evidencia": ""
     },
@@ -56,10 +56,10 @@
       "titulo": "Composición y regla de dependencias",
       "puntos": 15,
       "extra": false,
-      "ok": false,
-      "primeraVez": null,
-      "ultima": "2026-10-31T17:35:07.428Z",
-      "comprobaciones": "1/6",
+      "ok": true,
+      "primeraVez": "2026-10-31T17:38:41.614Z",
+      "ultima": "2026-10-31T17:38:41.614Z",
+      "comprobaciones": "6/6",
       "evidencia": ""
     },
     "5": {
