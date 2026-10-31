@@ -6,7 +6,7 @@
     "juan manuel restrepo castro",
     "sergio perez mercado"
   ],
-  "actualizado": "2026-10-31T16:42:07.982Z",
+  "actualizado": "2026-10-31T16:54:22.262Z",
   "entorno": {
     "node": "v24.20.0",
     "sistema": "win32 x64"
@@ -46,10 +46,10 @@
       "titulo": "Adaptador de entrada: la API HTTP",
       "puntos": 20,
       "extra": false,
-      "ok": false,
-      "primeraVez": null,
-      "ultima": "2026-10-31T16:24:02.478Z",
-      "comprobaciones": "1/12",
+      "ok": true,
+      "primeraVez": "2026-10-31T16:54:22.546Z",
+      "ultima": "2026-10-31T16:54:22.546Z",
+      "comprobaciones": "12/12",
       "evidencia": ""
     },
     "4": {
@@ -58,8 +58,8 @@
       "extra": false,
       "ok": false,
       "primeraVez": null,
-      "ultima": "2026-10-31T16:24:02.497Z",
-      "comprobaciones": "1/6",
+      "ultima": "2026-10-31T16:54:13.079Z",
+      "comprobaciones": "4/6",
       "evidencia": ""
     },
     "5": {
