@@ -6,7 +6,11 @@
     "juan manuel restrepo castro",
     "sergio perez mercado"
   ],
+<<<<<<< HEAD
   "actualizado": "2026-10-31T04:54:18.744Z",
+=======
+  "actualizado": "2026-10-31T16:54:22.262Z",
+>>>>>>> f99f1a29dc4ebccd3d01cce84ded00c50ae04257
   "entorno": {
     "node": "v24.20.0",
     "sistema": "win32 x64"
@@ -16,20 +20,27 @@
       "titulo": "Contenedor listo",
       "puntos": 10,
       "extra": false,
-      "ok": false,
-      "primeraVez": null,
-      "ultima": "2026-10-31T16:24:02.194Z",
-      "comprobaciones": "0/1",
-      "evidencia": "sin motor"
+      "ok": true,
+      "primeraVez": "2026-10-31T16:36:08.540Z",
+      "ultima": "2026-10-31T16:36:08.540Z",
+      "comprobaciones": "2/2",
+      "evidencia": "docker 29.8.2"
     },
     "1": {
       "titulo": "Casos de uso",
       "puntos": 15,
       "extra": false,
+<<<<<<< HEAD
       "ok": false,
       "primeraVez": null,
       "ultima": "2026-10-31T04:38:04.122Z",
       "comprobaciones": "1/9",
+=======
+      "ok": true,
+      "primeraVez": "2026-10-31T16:42:08.010Z",
+      "ultima": "2026-10-31T16:42:08.010Z",
+      "comprobaciones": "9/9",
+>>>>>>> f99f1a29dc4ebccd3d01cce84ded00c50ae04257
       "evidencia": ""
     },
     "2": {
@@ -46,10 +57,10 @@
       "titulo": "Adaptador de entrada: la API HTTP",
       "puntos": 20,
       "extra": false,
-      "ok": false,
-      "primeraVez": null,
-      "ultima": "2026-10-31T16:24:02.478Z",
-      "comprobaciones": "1/12",
+      "ok": true,
+      "primeraVez": "2026-10-31T16:54:22.546Z",
+      "ultima": "2026-10-31T16:54:22.546Z",
+      "comprobaciones": "12/12",
       "evidencia": ""
     },
     "4": {
@@ -58,8 +69,8 @@
       "extra": false,
       "ok": false,
       "primeraVez": null,
-      "ultima": "2026-10-31T16:24:02.497Z",
-      "comprobaciones": "1/6",
+      "ultima": "2026-10-31T16:54:13.079Z",
+      "comprobaciones": "4/6",
       "evidencia": ""
     },
     "5": {
