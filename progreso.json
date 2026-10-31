@@ -6,7 +6,7 @@
     "juan manuel restrepo castro",
     "sergio perez mercado"
   ],
-  "actualizado": "2026-10-31T16:30:12.176Z",
+  "actualizado": "2026-10-31T16:36:03.911Z",
   "entorno": {
     "node": "v24.20.0",
     "sistema": "win32 x64"
@@ -16,11 +16,11 @@
       "titulo": "Contenedor listo",
       "puntos": 10,
       "extra": false,
-      "ok": false,
-      "primeraVez": null,
-      "ultima": "2026-10-31T16:24:02.194Z",
-      "comprobaciones": "0/1",
-      "evidencia": "sin motor"
+      "ok": true,
+      "primeraVez": "2026-10-31T16:36:08.540Z",
+      "ultima": "2026-10-31T16:36:08.540Z",
+      "comprobaciones": "2/2",
+      "evidencia": "docker 29.8.2"
     },
     "1": {
       "titulo": "Casos de uso",
@@ -28,7 +28,7 @@
       "extra": false,
       "ok": false,
       "primeraVez": null,
-      "ultima": "2026-10-31T16:24:02.211Z",
+      "ultima": "2026-10-31T16:34:31.233Z",
       "comprobaciones": "1/9",
       "evidencia": ""
     },
